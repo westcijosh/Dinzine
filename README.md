@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dinzine
+- 👋 Hi, I’m @westcijosh
 - 👀 I’m interested in ... all about computer engineering and science in general
 - 🌱 I’m currently learning ...python and java and arduino and ui design
 - 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ...is by email isaacktemu@rocketmail.com
+- 📫 How to reach me ...is by email quione48@gmail.com
 -
 
 <!---
